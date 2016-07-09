@@ -1,2 +1,2 @@
 # TweetMiner
-java tool for mining twitter and jdbc connector
+java tool for mining twitter / jdbc as mysql connector
